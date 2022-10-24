@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1666578438437,
-  "index": "C:/Program Files/Git/projeto-angular-pwa/index.html",
+  "timestamp": 1666578782368,
+  "index": "/projeto-angular-pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "C:/Program Files/Git/projeto-angular-pwa/favicon.ico",
-        "C:/Program Files/Git/projeto-angular-pwa/index.html",
-        "C:/Program Files/Git/projeto-angular-pwa/main.52852606ffa21e96.js",
-        "C:/Program Files/Git/projeto-angular-pwa/manifest.webmanifest",
-        "C:/Program Files/Git/projeto-angular-pwa/polyfills.a6caebc89be16b3a.js",
-        "C:/Program Files/Git/projeto-angular-pwa/runtime.2ed86a8b3e1226d5.js",
-        "C:/Program Files/Git/projeto-angular-pwa/styles.ef46db3751d8e999.css"
+        "/projeto-angular-pwa/favicon.ico",
+        "/projeto-angular-pwa/index.html",
+        "/projeto-angular-pwa/main.52852606ffa21e96.js",
+        "/projeto-angular-pwa/manifest.webmanifest",
+        "/projeto-angular-pwa/polyfills.a6caebc89be16b3a.js",
+        "/projeto-angular-pwa/runtime.2ed86a8b3e1226d5.js",
+        "/projeto-angular-pwa/styles.ef46db3751d8e999.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "C:/Program Files/Git/projeto-angular-pwa/assets/icons/icon-128x128.png",
-        "C:/Program Files/Git/projeto-angular-pwa/assets/icons/icon-144x144.png",
-        "C:/Program Files/Git/projeto-angular-pwa/assets/icons/icon-152x152.png",
-        "C:/Program Files/Git/projeto-angular-pwa/assets/icons/icon-192x192.png",
-        "C:/Program Files/Git/projeto-angular-pwa/assets/icons/icon-384x384.png",
-        "C:/Program Files/Git/projeto-angular-pwa/assets/icons/icon-512x512.png",
-        "C:/Program Files/Git/projeto-angular-pwa/assets/icons/icon-72x72.png",
-        "C:/Program Files/Git/projeto-angular-pwa/assets/icons/icon-96x96.png"
+        "/projeto-angular-pwa/assets/icons/icon-128x128.png",
+        "/projeto-angular-pwa/assets/icons/icon-144x144.png",
+        "/projeto-angular-pwa/assets/icons/icon-152x152.png",
+        "/projeto-angular-pwa/assets/icons/icon-192x192.png",
+        "/projeto-angular-pwa/assets/icons/icon-384x384.png",
+        "/projeto-angular-pwa/assets/icons/icon-512x512.png",
+        "/projeto-angular-pwa/assets/icons/icon-72x72.png",
+        "/projeto-angular-pwa/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "C:/Program Files/Git/projeto-angular-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "C:/Program Files/Git/projeto-angular-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "C:/Program Files/Git/projeto-angular-pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "C:/Program Files/Git/projeto-angular-pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "C:/Program Files/Git/projeto-angular-pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "C:/Program Files/Git/projeto-angular-pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "C:/Program Files/Git/projeto-angular-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "C:/Program Files/Git/projeto-angular-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "C:/Program Files/Git/projeto-angular-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "C:/Program Files/Git/projeto-angular-pwa/index.html": "e305008c0bff13070252f29a56791c0201be6483",
-    "C:/Program Files/Git/projeto-angular-pwa/main.52852606ffa21e96.js": "bf0ed798495de6e73135f713b2c2ffa2945045dd",
-    "C:/Program Files/Git/projeto-angular-pwa/manifest.webmanifest": "ab594920bf9250219affd44a00dd54d2c98606b1",
-    "C:/Program Files/Git/projeto-angular-pwa/polyfills.a6caebc89be16b3a.js": "118379bf6d10334659f92f518e1fc820594e1744",
-    "C:/Program Files/Git/projeto-angular-pwa/runtime.2ed86a8b3e1226d5.js": "e9d173a46e0c856f5f5280a46f5b5d24405d1a9e",
-    "C:/Program Files/Git/projeto-angular-pwa/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/projeto-angular-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/projeto-angular-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/projeto-angular-pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/projeto-angular-pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/projeto-angular-pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/projeto-angular-pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/projeto-angular-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/projeto-angular-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/projeto-angular-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/projeto-angular-pwa/index.html": "0c654d25bbfab508c845edd91e2d921b31e120d3",
+    "/projeto-angular-pwa/main.52852606ffa21e96.js": "bf0ed798495de6e73135f713b2c2ffa2945045dd",
+    "/projeto-angular-pwa/manifest.webmanifest": "ab594920bf9250219affd44a00dd54d2c98606b1",
+    "/projeto-angular-pwa/polyfills.a6caebc89be16b3a.js": "118379bf6d10334659f92f518e1fc820594e1744",
+    "/projeto-angular-pwa/runtime.2ed86a8b3e1226d5.js": "e9d173a46e0c856f5f5280a46f5b5d24405d1a9e",
+    "/projeto-angular-pwa/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
